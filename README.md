@@ -1,8 +1,11 @@
-# Python-ChatBot
-
-It's a simple chat bot made using  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> | .
-It's SUPERCOOL to interract with it, you should give it a try.
+# PYTHON CHAT-BOT!
 
 
 
-<img src="https://cdn.technologyadvice.com/wp-content/uploads/2018/02/friendly-chatbot-700x408.jpg" />
+ 💻It's a simple chat bot made using  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> .<br>
+ 💻 It's Supercool to interact with it, you should give it a try.
+
+
+
+<img src= "https://www.techfunnel.com/wp-content/uploads/2021/07/chatbots.png"  width = "500 ">
+
