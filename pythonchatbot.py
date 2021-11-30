@@ -5,8 +5,8 @@
 # Pocket Pen Pal 
 
 # Username Input 
-print ("Welcome to Pocket Pen Pal! Let's get started!")
-username = input(str("What is your name? "))
+print ("Welcome to Ravithemore's World Pal! Let's get started!")
+username = input(str("What's your name? "))
 print (f"Well... Hello there, {username}!")
 
 # Have user choose city
