@@ -30,7 +30,7 @@ from random import choice
 
 # Create function for user's mood
 def get_bot_response(user_response):
-  bot_response_happy = ["That's so good to hear!", "That makes ME happy to hear!", "There is nothing that makes me happier!"]
+  bot_response_happy = ["That's so good to hear!", "That makes ME happy to hear!", "There is nothing more then that,  makes me happier!"]
   bot_response_sad = ["Don't worry. You're not alone!", "I wish there was something I could do to help you feel better!", "Well I'm sorry, but hey, I'm sending you only the best of vibes!"]
   if user_response.lower() == "happy":
     return choice(bot_response_happy)
@@ -49,7 +49,7 @@ while True:
 
 # Ask user what awesome activity they did today
 activity = input (str("Can you tell me one cool thing you did today? "))
-print ("That sounds pretty interesting!")
+print ("That sounds pretty interesting and fascinating!")
 
 # Ask user if they want to hear what you did today
 bot_activity = input (str("Do you want to hear what I did today? (Yes or No?) "))
