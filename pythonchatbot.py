@@ -10,7 +10,7 @@ username = input(str("What's your name? "))
 print (f"Well... Hello there, {username}!")
 
 # Have user choose city
-city = input(str("Where would you like your Pen Pal to be from? (Choose from either Paris, Tokyo, or Los Angeles) "))
+city = input(str("Where would you like your AIBOT Pal to be from? (Choose from either Paris, Tokyo, or Los Angeles) "))
 
 if city.lower() == "paris":
     print ("Bonjour! I am from Paris, the most romantic city in the world!")
@@ -23,7 +23,7 @@ else:
 
 # Ask user for their city
 user_city = input (str("What city are you in? :) "))
-print (f"So you're from {user_city}! Sweet! I've heard nice things about your city. :)")
+print (f"So you're from {user_city}! Sweet! I've heard nice things about your city. The people there are like having butter in their mouth, always sweet😊 :)")
 
 # Import your choice module
 from random import choice
