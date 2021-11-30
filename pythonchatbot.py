@@ -66,7 +66,7 @@ print (f"So yours is {book}! Mine is probably... 'Harry Potter' by J.K. Rowling.
 
 # Get user's favorite game
 game = input (str("Let's move on to something way more fun! What is your favorite video game?" ))
-print (f"OMG! Your favorite game is {game}! I personally LOVE Call of Duty and The Sims.")
+print (f"OMG! Your favorite game is {game}! I too love that one. I personally love TOM CLANCY ,GTA 5 and RDR-2.")
 
 # Create function for user's favorite food
 def get_user_food(user_food):
