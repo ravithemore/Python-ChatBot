@@ -54,7 +54,7 @@ print ("That sounds pretty interesting and fascinating!")
 # Ask user if they want to hear what you did today
 bot_activity = input (str("Do you want to hear what I did today? (Yes or No?) "))
 if bot_activity.lower() == "yes":
-  print ("I actually was a tourist in my own city today! I visited all the popular travel destinations in my area!")
+  print ("I actually was a tourist in my own city today! I visited all the popular travel destinations in my area!. Had burgers fries ,drank booze ,danced like hell and a lot more")
 elif bot_activity.lower() == "no":
   print ("That's alright. :)")
 else:
@@ -62,7 +62,7 @@ else:
 
 # Get user's favorite book
 book = input (str("After a long day, there is nothing like unwinding with a good book. So... I'm curious. What is your favorite book? :) "))
-print (f"So yours is {book}! Mine is probably... 'Catcher in the Rye' by J.D. Salinger.")
+print (f"So yours is {book}! Mine is probably... 'Harry Potter' by J.K. Rowling.")
 
 # Get user's favorite game
 game = input (str("Let's move on to something way more fun! What is your favorite video game?" ))
