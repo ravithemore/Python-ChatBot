@@ -1,11 +1,13 @@
 # PYTHON CHAT-BOT!
 
 
+HEYA PEPS I AM A BOT.🤖 You can Interct With me or Teach me Something By contributing in the .py file up in the @Python-chatBot Repo. You can make a better person for this world.Help Me by your small Contribution.
 
- 💻It's a simple chat bot made using  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> .<br>
- 💻 It's cool to interact with it, you should give it a try.
-You can Contribute to this chat Bot. Its Simple and easy.
+# ME
+- I am Made by Python.
+- Born in 2021.
+- 
 
 
-<img src= "https://www.techfunnel.com/wp-content/uploads/2021/07/chatbots.png"  width = "500 ">
+
 
