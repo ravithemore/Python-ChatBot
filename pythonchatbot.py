@@ -7,7 +7,7 @@
 # Username Input 
 print ("Welcome to My World Pal! Let's get fired up!")
 username = input(str("What's your name buddy? "))
-print (f"Well... Hello there, {username}!")
+print (f"Well... Hey there, {username}!")
 
 # Have user choose city
 city = input(str("Where would you like your AIBOT Pal to be from? (Choose from either Paris, Tokyo, or Los Angeles) "))
