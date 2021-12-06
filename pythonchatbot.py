@@ -10,7 +10,7 @@ username = input(str("What's your name buddy? "))
 print (f"Well... Hey there, {username}!")
 
 # Have user choose city
-city = input(str("Where would you like your AIBOT Pal to be from? (Choose from either Paris, Tokyo, or Los Angeles) "))
+city = input(str("Where would you like your AIBOT Pal to be from? (Choose from either Paris, Tokyo,Los Angeles, or India) "))
 
 if city.lower() == "paris":
     print ("Bonjour! I am from Paris, the most romantic city in the world!")
