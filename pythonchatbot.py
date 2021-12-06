@@ -19,7 +19,7 @@ elif city.lower() == "tokyo":
 elif city.lower() == "los angeles":
     print ("Hey! I am in Hollywood, the land of glamour, palm trees, and sunny skies!")
 elif city.lower() == "India":
-    print ("Namaste! I am from India, the land of kings and queens!")  
+    print ("Namaste! I am from India, the land of kings and queens, speices and culture and tradition. It's an awesome India😊!")  
 else:
     print ("You need to select from Paris, Tokyo, or Los Angeles. :)")
 
