@@ -5,7 +5,7 @@
 # Pocket Pen Pal 
 
 # Username Input 
-print ("Welcome to My World Pal! Let's get started!")
+print ("Welcome to My World Pal! Let's get fired up!")
 username = input(str("What's your name? "))
 print (f"Well... Hello there, {username}!")
 
