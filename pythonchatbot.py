@@ -6,7 +6,7 @@
 
 # Username Input 
 print ("Welcome to My World Pal! Let's get fired up!")
-username = input(str("What's your name? "))
+username = input(str("What's your name buddy? "))
 print (f"Well... Hello there, {username}!")
 
 # Have user choose city
