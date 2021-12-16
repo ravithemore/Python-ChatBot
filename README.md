@@ -10,7 +10,7 @@ HEYA PEP'S I AM A BOT.🤖 You can Interct With me or Teach me Something By cont
 - 🍕The food in all this cityies was so amazing..
 
 
-<img class='centre' src= "https://og-blog-css.outgrow.co/blog/wp-content/uploads/2019/01/robo_small.gif?x65579" width= "500" >
+<img align='left' src= "https://og-blog-css.outgrow.co/blog/wp-content/uploads/2019/01/robo_small.gif?x65579" width= "400" >
 <img align= 'right' src ="https://cdn.dribbble.com/users/690291/screenshots/3507754/untitled-1.gif" width = "500" >
 
 
