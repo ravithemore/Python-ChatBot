@@ -64,7 +64,7 @@ else:
 
 # Get user's favorite book
 book = input (str("After a long day, there is nothing like unwinding with a good book. So... I'm curious. What is your favorite book? :) "))
-print (f"So yours is {book}! Mine is probably... 'Harry Potter' by J.K. Rowling.")
+print (f"So yours is {book}! Mine is probably... 'Harry Potter' by J.K. Rowling and Atomic Habits by James Clear.")
 
 # Get user's favorite game
 game = input (str("Let's move on to something way more fun! What is your favorite video game?" ))
@@ -93,4 +93,4 @@ while True:
   print(user_food)
 
 # Say goodbye to user 
-print ("I think it is time for me to go ahead and make a meal! All that talk about food... Hehe, but it was so wonderful chatting with you! I truly hope you can visit my city sometime soon!")
+print ("I think it is time for me to go ahead and make a meal! All that talk about food... Hehe, but it was so wonderful chatting with you! I truly hope you can visit my city sometime soon! Ciao")
