@@ -17,11 +17,11 @@ if city.lower() == "paris":
 elif city.lower() == "tokyo":
     print ("Kon'nichiwa! I am from Tokyo, the jungle of electric lights and colors at night!")
 elif city.lower() == "los angeles":
-    print ("Hey! I am in Hollywood, the land of glamour, palm trees, and sunny skies!")
-elif city.lower() == "India":
-    print ("Namaste! I am from India, the land of kings and queens, speices and culture and tradition. It's an awesome India😊!")  
+    print ("Hey! I am from Hollywood, the land of glamour, palm trees, and sunny skies!")
+elif city.lower() == "Ahemadabad":
+    print ("Namaste! I am from Ahemadabad, the land of textiles and food, speices and culture and tradition. It's an awesome India😊!")  
 else:
-    print ("You need to select from Paris, Tokyo, or Los Angeles. :)")
+    print ("You need to select from Paris, Tokyo, Los Angeles or Ahemadabad. :)")
 
 # Ask user for their city
 user_city = input (str("What city are you in? :) "))
